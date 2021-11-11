@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "./dist",
+        "typeRoots": ["./node_modules/@types"],
+        "lib": ["ES6", "DOM"],
+        "target": "ES6",
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "removeComments": true,
+        "forceConsistentCasingInFileNames": true,
+        "watch": true
+    }
+}
